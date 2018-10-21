@@ -1,9 +1,10 @@
 #include <iostream>
-      
 using namespace std;
-      
+
+void log(const char* message);
+
 int main()
 {
-  cout << "hello Michael. It works!" << endl;
+  log("Hello C++");
   return 0;
-}      
+}
