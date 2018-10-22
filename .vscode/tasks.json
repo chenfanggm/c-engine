@@ -45,8 +45,7 @@
             "command": "make",
             "args": [
                 "-j",
-                "8",
-                "-i"
+                "8"
             ],
             "options": {
                 "cwd": "${workspaceRoot}/build"
