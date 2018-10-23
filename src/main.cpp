@@ -1,7 +1,6 @@
 #include <iostream>
+#include "log.hpp"
 using namespace std;
-
-void log(const char* message);
 
 int main()
 {
